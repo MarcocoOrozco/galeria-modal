@@ -7,6 +7,7 @@ body{
     display: flex;
     justify-content: center;
     align-items: center;
+    background-image: linear-gradient(to right, #ff4f, #fff4);
 }
 .galeria{
     width: 450px;
